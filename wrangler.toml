@@ -1,0 +1,5 @@
+name = "nombre-de-tu-app"
+compatibility_date = "2025-06-27"
+
+[site]
+bucket = "./"
